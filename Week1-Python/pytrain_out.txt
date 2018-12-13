@@ -1,0 +1,1 @@
+THis is li The following string should have appeared in stdin but it has been redirected to pytrain_in.txt.>> Hello
